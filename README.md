@@ -3,7 +3,7 @@ PS2 game launcher for PS4 that can be used directly through the console web brow
 Can only be used with internet connection. It is not capable of sending configuration files.<br>
 Requires [Jupyter Notebook](https://jupyter.org/install) and [voila](https://voila.readthedocs.io/en/stable/install.html). After setting them up following documentation on their respective websites, continue to the next section.
 
-![image](https://github.com/gbarboza88/ps2-network-game-launcher/assets/50859373/6bac55a1-ae23-4dae-b7bc-55b4f9aa9554)
+![image](https://github.com/gbarboza88/ps2-network-game-launcher/assets/50859373/94dd83e7-5271-4351-9a23-ab164dcf3304)
 
 ## Instructions
 
